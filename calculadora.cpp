@@ -1,4 +1,4 @@
-#include <iostream> // VERSION ORIGINAL
+#include <iostream> // VERSION ORIGINAL reforzada
 using namespace std;
 
 int sumar(int a, int b) {
